@@ -45,7 +45,7 @@ function run(){
   customCount = bindActionCreators(customCount, store.dispatch);
   plusOne();
   minusOne();
-  //测试
+  //测试 第二次测试
   customCount(5);
 }
 
